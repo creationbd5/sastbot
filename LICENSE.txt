@@ -1,0 +1,80 @@
+Copyright (c) 2026 Md Sumon Mahmud. All Rights Reserved.
+
+Author  : Sumon Mahmud
+GitHub  : https://github.com/creationbd5
+Email   : connect.sumon.mahmud@gmail.com
+Website : www.sumonmahmud.com
+
+===============================================================================
+1. LEGAL DISCLAIMER & INTENDED USE
+===============================================================================
+
+SumScan SastBot is developed strictly for defensive security purposes, software
+quality assurance, code remediation, and Application Security (AppSec)
+enhancement.
+
+AUTHORIZED TESTING ONLY
+This tool must only be used with source code and repositories for which the
+user has ownership, explicit written authorization, or legitimate security
+auditing permission.
+
+PROHIBITION OF ILLEGAL ACTIVITIES
+Unauthorized, malicious, or illegal use of this software, including use for
+unauthorized exploitation, intellectual-property infringement, or unauthorized
+distribution, is prohibited.
+
+NO LIABILITY
+To the maximum extent permitted by applicable law, the author and contributors
+shall not be liable for misuse, unauthorized assessments, data corruption,
+service interruption, loss, or damages arising from use of this software.
+
+===============================================================================
+2. TECHNICAL LIMITATIONS & ACCURACY
+===============================================================================
+
+SumScan SastBot uses automated static analysis, Abstract Syntax Tree (AST)
+parsing, pattern matching, and optional third-party analysis engines.
+
+AUTOMATED FINDINGS
+Static analysis may produce false positives and false negatives. A finding is
+an indicator for review, not proof that a vulnerability is exploitable.
+
+MANUAL REVIEW REQUIRED
+Findings should be independently validated by a qualified security reviewer or
+code auditor before production decisions are made.
+
+===============================================================================
+3. COPYRIGHT & PROPRIETARY NOTICE
+===============================================================================
+
+Except for third-party components, standards, external rule packs, and
+third-party materials identified below, the original SumScan SastBot source code,
+original UI assets, original visual designs, and original SumScan-specific rule
+implementations are proprietary to Md Sumon Mahmud.
+
+Unauthorized duplication, reverse engineering, unauthorized redistribution,
+or commercial reselling of the proprietary SumScan SastBot software package
+without express written permission from the copyright owner is prohibited,
+subject to rights that cannot lawfully be restricted.
+
+===============================================================================
+4. THIRD-PARTY MATERIALS & ATTRIBUTION
+===============================================================================
+
+SumScan SastBot may interoperate with independently licensed third-party tools
+such as Semgrep, Bandit, Trivy, Gitleaks, Tree-sitter, PySide6, and Pygments.
+Those projects remain governed by their own licenses.
+
+Security taxonomy identifiers such as CWE names/IDs and methodology references
+such as OWASP test identifiers are references to external standards and are not
+claimed as proprietary SumScan intellectual property.
+
+The OWASP Testing Guide material used as design/research guidance is published
+under its stated Creative Commons license. SumScan does not claim ownership of
+OWASP text, OWASP trademarks, or OWASP methodology.
+
+The supplied CWE Top 25 bulletin is used as research/reference material.
+SumScan does not claim ownership of MITRE CWE identifiers, definitions, or
+third-party bulletin content.
+
+No third-party project is represented as endorsing SumScan SastBot.
