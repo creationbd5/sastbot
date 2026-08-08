@@ -1,8 +1,0 @@
-# Optional analysis engines installed through Python
-semgrep>=1.90
-bandit>=1.7
-tree-sitter-language-pack>=0.9
-
-# Trivy and Gitleaks are standalone system tools.
-# Install them through the vendor-supported package/release method and ensure
-# the executable is available in PATH. SumScan Engine Manager will detect them.
